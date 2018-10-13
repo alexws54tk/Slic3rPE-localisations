@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Slic3r Prusa Edition 1.41.1\n"
 "Report-Msgid-Bugs-To: Alexander Golikov <alex@ws54.tk>\n"
-"PO-Revision-Date: 2018-10-13 19:00+0700\n"
+"PO-Revision-Date: 2018-10-13 22:00+0700\n"
 "POT-Creation-Date: 2018-10-06 12:28+0300\n"
 "Language-Team: \n"
 "Last-Translator: Alexander Golikov <alex@ws54.tk>\n"
@@ -5153,7 +5153,7 @@ msgstr "Управления принтером"
 
 #: lib/Slic3r/GUI/MainFrame.pm:215
 msgid "Open STL/OBJ/AMF/3MF…\tCtrl+O"
-msgstr "Открыть STL/OBJ/AMF/3MF… Ctrl+O"
+msgstr "Открыть STL/OBJ/AMF/3MF…\tCtrl+O"
 
 #: lib/Slic3r/GUI/MainFrame.pm:215
 msgid "Open a model"
@@ -5161,7 +5161,7 @@ msgstr "Открыть модель"
 
 #: lib/Slic3r/GUI/MainFrame.pm:218
 msgid "&Load Config…\tCtrl+L"
-msgstr "&Загрузить конфигурацию… Ctrl+L"
+msgstr "&Загрузить конфигурацию…\tCtrl+L"
 
 #: lib/Slic3r/GUI/MainFrame.pm:218
 msgid "Load exported configuration file"
@@ -5169,7 +5169,7 @@ msgstr "Загрузить сохранённый файл конфигурац�
 
 #: lib/Slic3r/GUI/MainFrame.pm:221
 msgid "&Export Config…\tCtrl+E"
-msgstr "&Сохранить текущую конфигурацию… Ctrl+E"
+msgstr "&Сохранить текущую конфигурацию…\tCtrl+E"
 
 #: lib/Slic3r/GUI/MainFrame.pm:221
 msgid "Export current configuration to file"
@@ -5193,7 +5193,7 @@ msgstr "Сохранить все профили в файл"
 
 #: lib/Slic3r/GUI/MainFrame.pm:232
 msgid "Q&uick Slice…\tCtrl+U"
-msgstr "Быстрая &нарезка… Ctrl+U"
+msgstr "Быстрая &нарезка…\tCtrl+U"
 
 #: lib/Slic3r/GUI/MainFrame.pm:232
 msgid "Slice a file into a G-code"
@@ -5201,7 +5201,7 @@ msgstr "Нарезать файл"
 
 #: lib/Slic3r/GUI/MainFrame.pm:238
 msgid "Quick Slice and Save &As…\tCtrl+Alt+U"
-msgstr "Быстро нарезать и сохранить &как… Ctrl+Alt+U"
+msgstr "Быстро нарезать и сохранить &как…\tCtrl+Alt+U"
 
 #: lib/Slic3r/GUI/MainFrame.pm:238
 msgid "Slice a file into a G-code, save as"
@@ -5209,7 +5209,7 @@ msgstr "Нарезать файл и сохранить как"
 
 #: lib/Slic3r/GUI/MainFrame.pm:244
 msgid "&Repeat Last Quick Slice\tCtrl+Shift+U"
-msgstr "&Повтор последней быстрой нарезки Ctrl+Shift+U"
+msgstr "&Повтор последней быстрой нарезки\tCtrl+Shift+U"
 
 #: lib/Slic3r/GUI/MainFrame.pm:244
 msgid "Repeat last quick slice"
@@ -5217,7 +5217,7 @@ msgstr "Повторить последнюю быструю нарезку"
 
 #: lib/Slic3r/GUI/MainFrame.pm:251
 msgid "Slice to SV&G…\tCtrl+G"
-msgstr "Нарезать в SV&G… Ctrl+G"
+msgstr "Нарезать в SV&G…\tCtrl+G"
 
 #: lib/Slic3r/GUI/MainFrame.pm:251
 msgid "Slice file to a multi-layer SVG"
@@ -5225,7 +5225,7 @@ msgstr "Нарезать в SVG"
 
 #: lib/Slic3r/GUI/MainFrame.pm:255
 msgid "(&Re)Slice Now\tCtrl+S"
-msgstr "(&Пере)Нарезать Ctrl+S"
+msgstr "(&Пере)Нарезать\tCtrl+S"
 
 #: lib/Slic3r/GUI/MainFrame.pm:255
 msgid "Start new slicing process"
@@ -5281,7 +5281,7 @@ msgstr "Экспортировать текущие модели со стола
 
 #: lib/Slic3r/GUI/MainFrame.pm:294
 msgid "Select &Plater Tab\tCtrl+1"
-msgstr "Вкладка стола Ctrl+1"
+msgstr "Вкладка стола\tCtrl+1"
 
 #: lib/Slic3r/GUI/MainFrame.pm:294
 msgid "Show the plater"
@@ -5289,7 +5289,7 @@ msgstr "Показать стол"
 
 #: lib/Slic3r/GUI/MainFrame.pm:300
 msgid "Select &Controller Tab\tCtrl+T"
-msgstr "Вкладка управления принтером Ctrl+T"
+msgstr "Вкладка управления принтером\tCtrl+T"
 
 #: lib/Slic3r/GUI/MainFrame.pm:300
 msgid "Show the printer controller"
@@ -5297,7 +5297,7 @@ msgstr "Показать управление принтером"
 
 #: lib/Slic3r/GUI/MainFrame.pm:308
 msgid "Select P&rint Settings Tab\tCtrl+2"
-msgstr "Вкладка настройки печати Ctrl+2"
+msgstr "Вкладка настройки печати\tCtrl+2"
 
 #: lib/Slic3r/GUI/MainFrame.pm:308
 msgid "Show the print settings"
@@ -5305,7 +5305,7 @@ msgstr "Показать настройки печати"
 
 #: lib/Slic3r/GUI/MainFrame.pm:311
 msgid "Select &Filament Settings Tab\tCtrl+3"
-msgstr "Вкладка настройки прутка Ctrl+3"
+msgstr "Вкладка настройки прутка\tCtrl+3"
 
 #: lib/Slic3r/GUI/MainFrame.pm:311
 msgid "Show the filament settings"
@@ -5313,7 +5313,7 @@ msgstr "Показать настройки прутка"
 
 #: lib/Slic3r/GUI/MainFrame.pm:314
 msgid "Select Print&er Settings Tab\tCtrl+4"
-msgstr "Вкладка настройки принтера Ctrl+4"
+msgstr "Вкладка настройки принтера\tCtrl+4"
 
 #: lib/Slic3r/GUI/MainFrame.pm:314
 msgid "Show the printer settings"
